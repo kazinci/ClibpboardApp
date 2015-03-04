@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClipboardApp", "ClipboardApp\ClipboardApp.csproj", "{34FBBE85-E7FD-4CC9-9099-D90D08B32A74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34FBBE85-E7FD-4CC9-9099-D90D08B32A74}.Debug|x86.ActiveCfg = Debug|x86
+		{34FBBE85-E7FD-4CC9-9099-D90D08B32A74}.Debug|x86.Build.0 = Debug|x86
+		{34FBBE85-E7FD-4CC9-9099-D90D08B32A74}.Release|x86.ActiveCfg = Release|x86
+		{34FBBE85-E7FD-4CC9-9099-D90D08B32A74}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

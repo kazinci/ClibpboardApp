@@ -1,0 +1,73 @@
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardApp\ClipboardApp\bin\Release\ClipboardApp.exe.config
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardApp\ClipboardApp\obj\x86\Release\ClipboardApp.exe
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardApp\ClipboardApp\obj\x86\Release\ClipboardApp.pdb
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardApp\ClipboardApp\bin\Release\ClipboardApp.exe
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardApp\ClipboardApp\bin\Release\ClipboardApp.pdb
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardApp\ClipboardApp\bin\Release\DotNetOpenAuth.dll
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardApp\ClipboardApp\bin\Release\Google.Apis.Authentication.OAuth2.dll
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardApp\ClipboardApp\bin\Release\Google.Apis.dll
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardApp\ClipboardApp\bin\Release\Google.Apis.Drive.v2.dll
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardApp\ClipboardApp\bin\Release\Google.Apis.Oauth2.v2.dll
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardApp\ClipboardApp\bin\Release\log4net.dll
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardApp\ClipboardApp\bin\Release\Newtonsoft.Json.Net35.dll
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardApp\ClipboardApp\bin\Release\Google.Apis.pdb
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardApp\ClipboardApp\bin\Release\Google.Apis.xml
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardApp\ClipboardApp\bin\Release\Google.Apis.Authentication.OAuth2.xml
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardApp\ClipboardApp\bin\Release\Google.Apis.Drive.v2.xml
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardApp\ClipboardApp\bin\Release\Google.Apis.Oauth2.v2.xml
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardApp\ClipboardApp\bin\Release\Newtonsoft.Json.Net35.xml
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardApp\ClipboardApp\obj\x86\Release\ResolveAssemblyReference.cache
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardApp\ClipboardApp\obj\x86\Release\ClipboardApp.MainWindow.resources
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardApp\ClipboardApp\obj\x86\Release\ClipboardApp.Properties.Resources.resources
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardApp\ClipboardApp\obj\x86\Release\ClipboardApp.SettingsWindow.resources
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardApp\ClipboardApp\obj\x86\Release\GenerateResource.read.1.tlog
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardApp\ClipboardApp\obj\x86\Release\GenerateResource.write.1.tlog
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardAppXP\ClipboardApp\bin\Release\ClipboardApp.exe.config
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardAppXP\ClipboardApp\obj\x86\Release\ClipboardApp.exe
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardAppXP\ClipboardApp\obj\x86\Release\ClipboardApp.pdb
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardAppXP\ClipboardApp\bin\Release\ClipboardApp.exe
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardAppXP\ClipboardApp\bin\Release\ClipboardApp.pdb
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardAppXP\ClipboardApp\bin\Release\DotNetOpenAuth.dll
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardAppXP\ClipboardApp\bin\Release\Google.Apis.Authentication.OAuth2.dll
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardAppXP\ClipboardApp\bin\Release\Google.Apis.dll
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardAppXP\ClipboardApp\bin\Release\Google.Apis.Drive.v2.dll
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardAppXP\ClipboardApp\bin\Release\Google.Apis.Oauth2.v2.dll
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardAppXP\ClipboardApp\bin\Release\log4net.dll
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardAppXP\ClipboardApp\bin\Release\Newtonsoft.Json.Net35.dll
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardAppXP\ClipboardApp\bin\Release\Google.Apis.pdb
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardAppXP\ClipboardApp\bin\Release\Google.Apis.xml
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardAppXP\ClipboardApp\bin\Release\Google.Apis.Authentication.OAuth2.xml
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardAppXP\ClipboardApp\bin\Release\Google.Apis.Drive.v2.xml
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardAppXP\ClipboardApp\bin\Release\Google.Apis.Oauth2.v2.xml
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardAppXP\ClipboardApp\bin\Release\Newtonsoft.Json.Net35.xml
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardAppXP\ClipboardApp\obj\x86\Release\ResolveAssemblyReference.cache
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardAppXP\ClipboardApp\obj\x86\Release\ClipboardApp.MainWindow.resources
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardAppXP\ClipboardApp\obj\x86\Release\ClipboardApp.Properties.Resources.resources
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardAppXP\ClipboardApp\obj\x86\Release\ClipboardApp.SettingsWindow.resources
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardAppXP\ClipboardApp\obj\x86\Release\GenerateResource.read.1.tlog
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\ClipboardAppXP\ClipboardApp\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Kazo\Documents\ClipboardAppXP\ClipboardApp\bin\Release\ClipboardApp.exe.config
+C:\Users\Kazo\Documents\ClipboardAppXP\ClipboardApp\obj\x86\Release\ClipboardApp.exe
+C:\Users\Kazo\Documents\ClipboardAppXP\ClipboardApp\obj\x86\Release\ClipboardApp.pdb
+C:\Users\Kazo\Documents\ClipboardAppXP\ClipboardApp\bin\Release\ClipboardApp.exe
+C:\Users\Kazo\Documents\ClipboardAppXP\ClipboardApp\bin\Release\ClipboardApp.pdb
+C:\Users\Kazo\Documents\ClipboardAppXP\ClipboardApp\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\Kazo\Documents\ClipboardAppXP\ClipboardApp\bin\Release\DotNetOpenAuth.dll
+C:\Users\Kazo\Documents\ClipboardAppXP\ClipboardApp\bin\Release\Google.Apis.Authentication.OAuth2.dll
+C:\Users\Kazo\Documents\ClipboardAppXP\ClipboardApp\bin\Release\Google.Apis.dll
+C:\Users\Kazo\Documents\ClipboardAppXP\ClipboardApp\bin\Release\Google.Apis.Drive.v2.dll
+C:\Users\Kazo\Documents\ClipboardAppXP\ClipboardApp\bin\Release\Google.Apis.Oauth2.v2.dll
+C:\Users\Kazo\Documents\ClipboardAppXP\ClipboardApp\bin\Release\log4net.dll
+C:\Users\Kazo\Documents\ClipboardAppXP\ClipboardApp\bin\Release\Newtonsoft.Json.Net35.dll
+C:\Users\Kazo\Documents\ClipboardAppXP\ClipboardApp\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\Kazo\Documents\ClipboardAppXP\ClipboardApp\bin\Release\Google.Apis.pdb
+C:\Users\Kazo\Documents\ClipboardAppXP\ClipboardApp\bin\Release\Google.Apis.xml
+C:\Users\Kazo\Documents\ClipboardAppXP\ClipboardApp\bin\Release\Google.Apis.Authentication.OAuth2.xml
+C:\Users\Kazo\Documents\ClipboardAppXP\ClipboardApp\bin\Release\Google.Apis.Drive.v2.xml
+C:\Users\Kazo\Documents\ClipboardAppXP\ClipboardApp\bin\Release\Google.Apis.Oauth2.v2.xml
+C:\Users\Kazo\Documents\ClipboardAppXP\ClipboardApp\bin\Release\Newtonsoft.Json.Net35.xml
+C:\Users\Kazo\Documents\ClipboardAppXP\ClipboardApp\obj\x86\Release\ClipboardApp.MainWindow.resources
+C:\Users\Kazo\Documents\ClipboardAppXP\ClipboardApp\obj\x86\Release\ClipboardApp.Properties.Resources.resources
+C:\Users\Kazo\Documents\ClipboardAppXP\ClipboardApp\obj\x86\Release\ClipboardApp.SettingsWindow.resources
+C:\Users\Kazo\Documents\ClipboardAppXP\ClipboardApp\obj\x86\Release\ClipboardApp.csproj.GenerateResource.Cache
+C:\Users\Kazo\Documents\ClipboardAppXP\ClipboardApp\obj\x86\Release\ClipboardApp.csprojResolveAssemblyReference.cache
